@@ -1,5 +1,6 @@
 # TextToImage 
 # DipokalHHJ
+# 지금까지 커밋이 깔리지 않아 잔디가 뒤숭숭..ㅠㅠ
 
 from core import T2i
 
